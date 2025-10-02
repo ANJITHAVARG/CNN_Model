@@ -14,7 +14,7 @@ Detects ripe vs. unripe tomatoes using EfficientDet-D0.
 
 Provides percentage-based yield estimation.
 
-# Tech Stack
+3. Tech Stack
 
 Programming Language: Python
 
