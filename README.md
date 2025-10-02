@@ -1,3 +1,5 @@
+## Plant Disease Identification and Yield Detection Unit using CNN
+
 1. Plant Disease Detection
 
 Identifies 11 tomato leaf conditions (healthy + 10 disease classes).
@@ -12,7 +14,7 @@ Detects ripe vs. unripe tomatoes using EfficientDet-D0.
 
 Provides percentage-based yield estimation.
 
-## Tech Stack
+# Tech Stack
 
 Programming Language: Python
 
